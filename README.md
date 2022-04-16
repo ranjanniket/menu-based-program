@@ -1,7 +1,7 @@
 ## Task Description :
 ***Developing Automation Script using Python***
-The aim of the project was to integrate multiple tools and technologies like Linux, Hadoop, AWS, and Docker with Python. 
-Developed a menu-based environment to automate the administration task of these tools & technologies with one click.
+- The aim of the project was to integrate multiple tools and technologies like Linux, Hadoop, AWS, and Docker with Python. 
+- Developed a menu-based environment to automate the administration task of these tools & technologies with one click.
 
 The Tools used were: Linux, Aws, Docker, Hadoop, and Python.
 
